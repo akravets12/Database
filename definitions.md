@@ -40,6 +40,7 @@
 <br>•	проведення науково-дослідних оглядів
 <br>•	ретельне вивчення результатів
 <br>•	вчити і вчитися
+<br>
  [<a href ="https://www.dataone.org/data-life-cycle"> data life cycle </a>] 
 <br> <br> Data management is the development and execution of architectures, policies, practices and procedures in order to manage the information
 lifecycle needs of an enterprise in an effective manner. [<a href="http://searchdatamanagement.techtarget.com/definition/data-management"> Data management </a>]
